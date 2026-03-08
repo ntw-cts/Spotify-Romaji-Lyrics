@@ -25,6 +25,9 @@ Download the repository as a **ZIP file** and extract it to your computer.
 Since this project uses **Webpack**, you must ensure the `dist` folder is built:
 
 1. **Open your terminal** in the project folder.
+
+> ⚠️ **Warning:** Before running `npm install`, you might need to run `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` in your terminal.
+
 2. Run `npm install` (if you just downloaded it).
 3. Run `npm run build` to generate the final extension files.
 
@@ -48,5 +51,4 @@ Choose the browser you want to use:
 1. **Open Spotify Web Player.**
 2. Click on the **Lyrics** (microphone icon) for a Japanese song.
 3. Click the **Spotify Romaji Lyrics** icon in your browser toolbar.
-
 4. Toggle **Enable Romaji** to **"ON"**.

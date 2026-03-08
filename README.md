@@ -18,7 +18,7 @@ This extension automatically detects **Japanese lyrics** on Spotify and injects 
 
 ### **1. Download the Project**
 
-Download the [latest release](https://www.google.com/search?q=https://github.com/ntw-cts/Spotify-Romaji-Lyrics/releases/latest) here on Github.
+Download the [latest release](https://github.com/ntw-cts/Spotify-Romaji-Lyrics/releases/latest) here on Github.
 
 ### **2. Prepare the Extension**
 
@@ -52,3 +52,4 @@ Choose the browser you want to use:
 2. Click on the **Lyrics** (microphone icon) for a Japanese song.
 3. Click the **Spotify Romaji Lyrics** icon in your browser toolbar.
 4. Toggle **Enable Romaji** to **"ON"**.
+

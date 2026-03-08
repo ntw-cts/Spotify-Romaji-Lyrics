@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Spotify Romaji Lyrics",
+  "version": "1.0",
+  "description": "Romanizes Japanese song lyrics on the Spotify Web Player.",
+  "permissions": ["storage"],
+  "host_permissions": ["*://*.spotify.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.spotify.com/*"],
+      "js": ["content.js"] 
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["dict/*"],
+      "matches": ["*://*.spotify.com/*"]
+    }
+  ]
+}

@@ -52,7 +52,3 @@ Choose the browser you want to use:
 2. Click on the **Lyrics** (microphone icon) for a Japanese song.
 3. Click the **Spotify Romaji Lyrics** icon in your browser toolbar.
 4. Toggle **Enable Romaji** to **"ON"**.
-
-
-
-
